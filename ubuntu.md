@@ -15,12 +15,12 @@ sudo apt-get install fcitx-hangul
 - Keyboard input method system to 'fcitx'
 - reboot
 ### set shortcut
-- AllSettings > Keyboard > Shortcuts Tab > Typing
-- Disabled 'Switch to Next source, Switch to Previous sourc, Compose Key, Alternative Characters Key' (backspace)
-- Compose Key to Right Alt by clicking Disabled long
-- fcitx on the right top menu bar and choose Configure Current Input Method
+- System Settings > Keyboard > Shortcuts Tab > Typing
+- Disabled _Switch to Next source_, _Switch to Previous source_, _Compose Key_, _Alternative Characters Key_' (backspace)
+- Set _compose Key_ to Right Alt by clicking Disabled long
+- Click fcitx on the right top menu bar and choose _Configure Current Input Method_
 - Add Hangul by clicking '+'  (Uncheck “Only Show Current Language”)
-- Global Config > change Trigger Input Method as Multikey by pressing 한/영키. Disable Extrakey for trigger input method
+- Global Config > change _Trigger Input Method_ as Multikey by pressing 한/영키. Disable Extrakey for trigger input method
 - Global Config tap > Program > Share State Among Window > All
 ### test
 - Log out and Log in
